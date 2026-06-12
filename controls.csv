@@ -1,0 +1,8 @@
+control_id,name,nist,iso,soc2
+AC-1,Access Control Policy,AC-1,A.5.1,CC6.1
+AC-2,Account Management,AC-2,A.5.15,CC6.2
+AC-3,Access Enforcement,AC-3,A.8.3,CC6.3
+IA-1,Identification and Authentication Policy,IA-1,A.5.16,CC6.6
+IA-2,Identification and Authentication,IA-2,A.8.5,CC6.7
+SI-1,System and Information Integrity Policy,SI-1,A.5.37,CC7.1
+IR-1,Incident Response Policy,IR-1,A.5.26,CC7.3
